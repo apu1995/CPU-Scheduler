@@ -1,0 +1,7 @@
+
+Process             1       2       5       3        4        4
+Arrival Time        0       2       8       4        6        6
+Service Time        3       6       2       4        5        5
+Finish Time         3       9       11      15       20       20
+Turnaround Time     3.0     7.0     3.0     11.0     14.0     14.0
+Tq/Ts               1.0     1.0     1.0     2.0      2.0      2.0
